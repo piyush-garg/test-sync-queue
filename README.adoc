@@ -8,9 +8,7 @@ IMPORTANT: As part of the process of creating this booster, developers.redhat.co
 
 [source,bash,options="nowrap",subs="attributes+"]
 ----
-$ git clone git@github.com:piyush1594/test-sync-queue
-
-$ cd test-sync-queue
+$
 
 $ mvn compile vertx:run
 ----
